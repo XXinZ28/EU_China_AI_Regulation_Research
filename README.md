@@ -1,1 +1,1 @@
-# EU_China_AI_Regulation_Research
+This repository contains the research paper I wrote during my study abroad in Geneva, Switzerland, as part of the Law of Digital Economy course. The paper evaluates the social values underlying China’s and the European Union’s approaches to AI governance over the past eight years.
